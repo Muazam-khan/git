@@ -72,3 +72,5 @@ Checking branch protection rule
 git config --global user.name "Muazam-khan"
 git config --global user.email "kmuazam6@gmail.com"
 
+This is some test info
+
